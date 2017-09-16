@@ -1,0 +1,9 @@
+{
+    "author": "XElement",
+    "name": "Video on Demand Extensions",
+    "version": "0.0",
+
+    "description": "A Microsoft Edge extension for the video on demand provider maxdome.",
+    "icons": {},
+    "short_name": "VodEx"
+}
